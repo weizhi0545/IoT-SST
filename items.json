@@ -1,6 +1,24 @@
 {
-  "D3AD0735": { "name": "Biscuit", "price": 2.0 },
-  "9193747B": { "name": "Maggi", "price": 3.5 },
-  "E3093A0D": { "name": "Bread", "price": 4.0 },
-  "83E06536": { "name": "Water", "price": 1.5 }
+  "items": [
+    {
+      "name": "Biscuit",
+      "price": 2.00,
+      "uid": "D3AD0735"
+    },
+    {
+      "name": "Maggi",
+      "price": 3.50,
+      "uid": "9193747B"
+    },
+    {
+      "name": "Bread",
+      "price": 4.00,
+      "uid": "E3093A0D"
+    },
+    {
+      "name": "Water",
+      "price": 1.50,
+      "uid": "83E06536"
+    }
+  ]
 }
